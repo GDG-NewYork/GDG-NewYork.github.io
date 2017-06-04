@@ -1,0 +1,19 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Events
+  url: /events/
+
+- title: Blog
+  url: /blog/
+
+- title: People
+  url: /people/
+
+- title: DevFest
+  url: /devfest/
+
+- title: Search
+  url: /search/

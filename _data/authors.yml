@@ -1,0 +1,20 @@
+# Authors
+
+gdg_new_york:
+  name: GDG New York
+  web: http://gdgny.org
+  email: contact@gdgny.org
+  bio: "Google Developer Group, New York"
+  avatar: gdg-logo.png
+  twitter: gdg_nyc
+  google:
+    plus: GDGNewYork
+
+nitya_n:
+  name: Nitya Narasimhan
+  email: nitya@gdgny.org
+  bio: "Organizer, GDG New York"
+  avatar: nitya.jpg
+  twitter: nitya
+  google:
+    plus: NityaNarasimhan
